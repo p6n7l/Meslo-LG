@@ -1,0 +1,47 @@
+@font-face {
+  font-family: 'Meslo-LG';
+    src: url('https://cdn.jsdelivr.net/gh/shumer1213/MesloLGS-for-Powerline@blob/master/MesloLGS-Regular-Powerline.eot'); /* IE9 Compat Modes */
+    src: url('https://cdn.jsdelivr.net/gh/shumer1213/MesloLGS-for-Powerline@blob/master/MesloLGS-Regular-Powerline.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+        url('https://cdn.jsdelivr.net/gh/shumer1213/MesloLGS-for-Powerline@blob/master/MesloLGS-Regular-Powerline.woff2') format('woff2'), /* Super Modern Browsers */
+        url('https://cdn.jsdelivr.net/gh/shumer1213/MesloLGS-for-Powerline@blob/master/MesloLGS-Regular-Powerline.woff') format('woff'), /* Pretty Modern Browsers */
+        url('https://cdn.jsdelivr.net/gh/shumer1213/MesloLGS-for-Powerline@blob/master/MesloLGS-Regular-Powerline.ttf')  format('truetype'), /* Safari, Android, iOS */
+        url('https://cdn.jsdelivr.net/gh/shumer1213/MesloLGS-for-Powerline@blob/master/MesloLGS-Regular-Powerline.svg#svgFontName') format('svg'); /* Legacy iOS */
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+  font-family: 'Meslo-LG';
+    src: url('https://cdn.jsdelivr.net/gh/shumer1213/MesloLGS-for-Powerline@blob/master/MesloLGS-Italic-Powerline.eot'); /* IE9 Compat Modes */
+    src: url('https://cdn.jsdelivr.net/gh/shumer1213/MesloLGS-for-Powerline@blob/master/MesloLGS-Italic-Powerline.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+        url('https://cdn.jsdelivr.net/gh/shumer1213/MesloLGS-for-Powerline@blob/master/MesloLGS-Italic-Powerline.woff2') format('woff2'), /* Super Modern Browsers */
+        url('https://cdn.jsdelivr.net/gh/shumer1213/MesloLGS-for-Powerline@blob/master/MesloLGS-Italic-Powerline.woff') format('woff'), /* Pretty Modern Browsers */
+        url('https://cdn.jsdelivr.net/gh/shumer1213/MesloLGS-for-Powerline@blob/master/MesloLGS-Italic-Powerline.ttf')  format('truetype'), /* Safari, Android, iOS */
+        url('https://cdn.jsdelivr.net/gh/shumer1213/MesloLGS-for-Powerline@blob/master/MesloLGS-Italic-Powerline.svg#svgFontName') format('svg'); /* Legacy iOS */
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+  font-family: 'Meslo-LG';
+    src: url('https://cdn.jsdelivr.net/gh/shumer1213/MesloLGS-for-Powerline@blob/master/MesloLGS-Bold-Powerline.eot'); /* IE9 Compat Modes */
+    src: url('https://cdn.jsdelivr.net/gh/shumer1213/MesloLGS-for-Powerline@blob/master/MesloLGS-Bold-Powerline.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+        url('https://cdn.jsdelivr.net/gh/shumer1213/MesloLGS-for-Powerline@blob/master/MesloLGS-Bold-Powerline.woff2') format('woff2'), /* Super Modern Browsers */
+        url('https://cdn.jsdelivr.net/gh/shumer1213/MesloLGS-for-Powerline@blob/master/MesloLGS-Bold-Powerline.woff') format('woff'), /* Pretty Modern Browsers */
+        url('https://cdn.jsdelivr.net/gh/shumer1213/MesloLGS-for-Powerline@blob/master/MesloLGS-Bold-Powerline.ttf')  format('truetype'), /* Safari, Android, iOS */
+        url('https://cdn.jsdelivr.net/gh/shumer1213/MesloLGS-for-Powerline@blob/master/MesloLGS-Bold-Powerline.svg#svgFontName') format('svg'); /* Legacy iOS */
+    font-weight: bold;
+    font-style: bold;
+}
+
+@font-face {
+  font-family: 'Meslo-LG';
+    src: url('https://cdn.jsdelivr.net/gh/shumer1213/MesloLGS-for-Powerline@blob/master/MesloLGS-BoldItalic-Powerline.eot'); /* IE9 Compat Modes */
+    src: url('https://cdn.jsdelivr.net/gh/shumer1213/MesloLGS-for-Powerline@blob/master/MesloLGS-BoldItalic-Powerline.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+        url('https://cdn.jsdelivr.net/gh/shumer1213/MesloLGS-for-Powerline@blob/master/MesloLGS-BoldItalic-Powerline.woff2') format('woff2'), /* Super Modern Browsers */
+        url('https://cdn.jsdelivr.net/gh/shumer1213/MesloLGS-for-Powerline@blob/master/MesloLGS-BoldItalic-Powerline.woff') format('woff'), /* Pretty Modern Browsers */
+        url('https://cdn.jsdelivr.net/gh/shumer1213/MesloLGS-for-Powerline@blob/master/MesloLGS-BoldItalic-Powerline.ttf')  format('truetype'), /* Safari, Android, iOS */
+        url('https://cdn.jsdelivr.net/gh/shumer1213/MesloLGS-for-Powerline@blob/master/MesloLGS-BoldItalic-Powerline.svg#svgFontName') format('svg'); /* Legacy iOS */
+    font-weight: bold;
+    font-style: italic;
+}
